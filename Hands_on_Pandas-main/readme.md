@@ -8,7 +8,7 @@ _Pandas is a software library written for the Python programming language for da
 
 _Developer: Wes McKinney_
 
-_Initial release date: 11 January 2008_
+_Initial release date: 22 March 2023_
 
 https://pandas.pydata.org/
 
